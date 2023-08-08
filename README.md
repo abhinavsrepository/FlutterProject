@@ -1,6 +1,16 @@
-# FlutterProject
-<h1>This is practise project in flutter --60 day challenge to commit a single project everday.</h1> 
-<p>Introducing the immersive 60-Day Flutter Challenge – a thrilling journey through the world of mobile app development! This ambitious endeavor invites participants to embark on a remarkable practice project, committing to crafting and completing a unique Flutter project each day. With each sunrise, a fresh opportunity arises to dive into the captivating realm of Flutter, Google's open-source UI software development kit. Over the course of these two action-packed months, aspiring developers will harness the power of Dart programming language, wield Flutter's versatile widgets, and embrace the principles of responsive design to bring their creative visions to life. From intuitive user interfaces and interactive animations to data-driven functionality and seamless navigation, each day presents a new canvas to explore and refine skills. By dedicating themselves to this challenge, participants will not only cultivate their coding prowess but also cultivate a strong work ethic, time management, and problem-solving aptitude. The culmination of these sixty days promises a collection of remarkable Flutter projects, a profound sense of accomplishment, and a solid foundation to embark on more complex app development endeavors. So, gear up, flutter your wings of innovation, and join us on this exhilarating journey to elevate your Flutter expertise one day at a time!</p>
-<body>
-    <img src="https://www.mindinventory.com/blog/wp-content/uploads/2022/10/flutter-3.png" alt="Animated GIF">
-</body>
+# allen
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
